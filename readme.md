@@ -33,17 +33,7 @@ This project requires two companion packages, installed via local editable insta
 | Package | Repository | Description |
 |---|---|---|
 | `aero-envs` | [aero-envs](https://github.com/yourorg/aero-envs) | Custom Quanser Aero 2 Gymnasium environment |
-| `polynomial-rl-agents` | [polynomial-rl-agents](https://github.com/yourorg/polynomial-rl-agents) | Polynomial policy SB3 agents |
-
-Install:
-
-```bash
-git clone https://github.com/yourorg/aero-envs
-pip install -e aero-envs/
-
-git clone https://github.com/yourorg/polynomial-rl-agents
-pip install -e polynomial-rl-agents/
-```
+| `polynomial-rl-agents` | [polynomial-rl-agents](https://github.com/JRC-ISIA/polynomial-sb3-rl-agents) | Polynomial policy Stable Baselines3 agents |
 
 ## Requirements
 
