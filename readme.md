@@ -1,4 +1,4 @@
-# Chebyshev Policies and the Mountain Car Problem: Reinforcement Learning for Low-dimensional Control Tasks
+# Chebyshev Policies and the Mountain Car Problem: Reinforcement Learning for Low-Dimensional Control Tasks
 
 > **Disclaimer:** This repository reflects the exploratory and iterative nature of research code developed over two years alongside the scientific process. It is released in the exact form used to produce the published results, with reproducibility taking precedence over refactoring, optimization, or style consistency.
 
