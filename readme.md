@@ -8,13 +8,16 @@ If you use this code, please cite:
 
 ```bibtex
 @inproceedings{HUSR26,
-  title     = {Chebyshev Policies and the Mountain Car Problem: Reinforcement Learning for Low-dimensional Control Tasks},
+  title     = {Chebyshev Policies and the Mountain Car Problem: Reinforcement Learning for Low-Dimensional Control Tasks},
   author    = {Huber, Stefan and Unger, Hannes and Sch{\"a}fer, Georg and Rehrl, Jakob},
-  booktitle = {Proceedings of the 43rd International Conference on Machine Learning},
+  booktitle = {Proceedings of the 43rd International Conference on Machine Learning (ICML 2026)},
   year      = {2026},
-  address   = {Seoul, South Korea}
+  address   = {Seoul, South Korea},
+  note = {Spotlight Paper}
 }
 ```
+
+> Huber, S., Unger, H., Schäfer, G., and Rehrl, J. Chebyshev Policies and the Mountain Car Problem: Reinforcement Learning for Low-Dimensional Control Tasks. In Proceedings of the 43rd International Conference on Machine Learning (ICML 2026), Seoul, South Korea, 2026. Spotlight Paper.
 
 ## Structure
 
