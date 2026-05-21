@@ -1,5 +1,7 @@
 # Chebyshev Policies and the Mountain Car Problem: Reinforcement Learning for Low-Dimensional Control Tasks
 
+![ICML 2026 Spotlight](https://img.shields.io/badge/ICML%202026-Spotlight-blue)
+
 > **Disclaimer:** This repository reflects the exploratory and iterative nature of research code developed over two years alongside the scientific process. It is released in the exact form used to produce the published results, with reproducibility taking precedence over refactoring, optimization, or style consistency.
 
 ## Citation
